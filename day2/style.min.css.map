@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.min.css"}
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,KACE,gBAAA,CAEF,WACE,cAAA,CACA,WAAA,CACA,wBAAA,CACA,iBAAA,CACA,WAAA,CAEF,OACE,eAAA","file":"style.min.css","sourcesContent":["body {\r\n  font-size: 1.2rem;\r\n}\r\n.container {\r\n  max-width: 70em;\r\n  margin: auto;\r\n  border: 5px solid #002b20;\r\n  border-radius: 1em;\r\n  padding: 2em;\r\n}\r\n.quote {\r\n  margin-left: 2em;\r\n}\r\n"]}
