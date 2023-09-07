@@ -1,0 +1,10 @@
+.container {
+  border: 3px solid #002b21;
+  max-width: 60em;
+  margin: auto;
+  padding: 1em;
+}
+embed {
+  width: 25%;
+  height: 30%;
+}
