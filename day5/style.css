@@ -1,0 +1,24 @@
+.container {
+  border: 3px solid #002b20;
+  max-width: 50em;
+  margin: auto;
+  padding: 1em;
+}
+iframe {
+  overflow: auto;
+  width: 100%;
+}
+label {
+  display: block;
+}
+input {
+  display: block;
+}
+textarea {
+  display: block;
+}
+canvas {
+  width: 180px;
+  height: 80px;
+  border: 1px solid #305751;
+}
