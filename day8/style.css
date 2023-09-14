@@ -1,0 +1,14 @@
+.container {
+  max-width: 70em;
+  margin: 0 auto;
+  border: 3px solid black;
+}
+h1 {
+  color: #0000ff;
+}
+p {
+  color: #2d8a2c;
+}
+ul li {
+  color: #ff0000;
+}
