@@ -1,0 +1,19 @@
+h1 {
+  background-color: #ffa500;
+  color: #00007f;
+  padding: 2em;
+  max-width: 90%;
+  margin: 0 1em;
+}
+p {
+  background-color: #800080;
+  color: #ffffff;
+  padding: 1em;
+  margin: 2em 2em;
+}
+.blue-square {
+  background-color: #6495ed;
+  height: 20em;
+  width: 20em;
+  margin: auto;
+}
